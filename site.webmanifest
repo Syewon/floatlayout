@@ -1,0 +1,16 @@
+// 192 x 192 홈스크린
+// 512 x 512 PWA 로딩시 스플래시 스크린용
+{
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
